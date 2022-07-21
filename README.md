@@ -1,4 +1,4 @@
-# todo-app
+# todo_app
 
 Flutter + HiveDB
 
